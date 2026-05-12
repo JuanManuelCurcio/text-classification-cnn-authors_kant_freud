@@ -1,4 +1,3 @@
-# text-classification-cnn-authors_kant_freud
 # NLP Author Classification (CNN)
 
 This project implements a Convolutional Neural Network (CNN) for text classification, distinguishing between writing styles of two authors: Immanuel Kant and Sigmund Freud.
